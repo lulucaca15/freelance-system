@@ -36,41 +36,41 @@ const Sidebar = ({ sidebarOpen, closeSideBar }) => {
                 </div>
                 <div className='sidebar__link'>
                     <i className='fa fa-archive'></i>
-                    <a href='google.com'>Produtos</a>
+                    <a href='#'>Produtos</a>
                 </div>
                 <div className='sidebar__link'>
                     <i className='fa fa-bars'></i>
-                    <a href='google.com'>Categorias</a>
+                    <a href='#'>Categorias</a>
                 </div>
                 <div className='sidebar__link'>
                     <i className='fa fa-cutlery'></i>
-                    <a href='google.com'>Pedidos</a>
+                    <a href='#'>Pedidos</a>
                 </div>
 
                 <h2>PESSOAS</h2>
                 <div className='sidebar__link'>
                     <i className='fa fa-male'></i>
-                    <a href='google.com'>Administradores</a>
+                    <a href='#'>Administradores</a>
                 </div>
                 <div className='sidebar__link'>
                     <i className='fa fa-user-circle'></i>
-                    <a href='google.com'>Usuários</a>
+                    <a href='#'>Usuários</a>
                 </div>
                 <div className='sidebar__link'>
                     <i className='fa fa-money'></i>
-                    <a href='google.com'>Pagamentos e Custos</a>
+                    <a href='#'>Pagamentos e Custos</a>
                 </div>
                 <div className='sidebar__link'>
                     <i className='fa fa-tasks'></i>
-                    <a href='google.com'>A Plataforma</a>
+                    <a href='#'>A Plataforma</a>
                 </div>
                 <div className='sidebar__link'>
                     <i className='fa fa-file-text'></i>
-                    <a href='google.com'>Política de Privacidade</a>
+                    <a href='#'>Política de Privacidade</a>
                 </div>
                 <div className='sidebar__logout'>
                     <i className='fa fa-power-off'></i>
-                    <a href='google.com'>Logout</a>
+                    <a href='#'>Logout</a>
                 </div>
             </div>
         </div>
